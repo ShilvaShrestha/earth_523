@@ -3,3 +3,4 @@ Author: Shilva Shrestha
 
 This folder includes notes and files from git and RMarkdown workshop.
 
+Some useful command for git includes git status, git add, git commit -m.
